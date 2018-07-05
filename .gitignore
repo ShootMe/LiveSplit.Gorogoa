@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bin
+/obj
+/Components/LiveSplit.Gorogoa.exe
+/LiveSplit.Gorogoa.csproj.user
